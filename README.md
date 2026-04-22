@@ -9,6 +9,8 @@ in project organization, version control, and development workflow.
 - Basic Python application
 - Unit testing support
 
-## Installation
-```bash
-pip install -r requirements.txt
+## Run the App
+python src/app.py
+
+## Open in Browser
+http://127.0.0.1:5000
